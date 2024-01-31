@@ -8,7 +8,7 @@ s
 ## Scan this projects
 There are 2 ways to scan this project.ss
 sss
-### 1. Using url option
+### 1. Using url options
 `SRCCLR_FORCE_GO_INSTALL=true srcclr scan --url https://github.com/srcclr/example-go-goget`
 
 ### 2. On local path
