@@ -4,7 +4,7 @@ An example Go project that does not use any package manager to demonstrate [Sour
 
 ## Install and activate SourceClear
 Follow the instructions under the section "Setup and Configuration" in https://www.sourceclear.com/docs/command-line-interface/ to install and activate our SourceClear agent.
-
+s
 ## Scan this projects
 There are 2 ways to scan this project.
 
