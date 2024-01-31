@@ -18,7 +18,7 @@ There are 2 ways to scan this project.s
 2. srcclr scan .
 ```
 s
-s
+ss
 s
 ss
 s
