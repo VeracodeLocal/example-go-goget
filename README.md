@@ -20,5 +20,5 @@ There are 2 ways to scan this project.
 s
 s
 s
-s
+ss
 s
